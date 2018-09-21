@@ -1,0 +1,2 @@
+# Telegraf Config Collection
+
